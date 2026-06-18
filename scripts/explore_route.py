@@ -4,7 +4,7 @@
 import json
 from pathlib import Path
 
-chemin = Path("data/raw/back_on_track/routes.json")
+chemin = Path("data/raw/source_route/routes.json")
 with open(chemin, encoding="utf-8") as f:
     routes = json.load(f)
 
