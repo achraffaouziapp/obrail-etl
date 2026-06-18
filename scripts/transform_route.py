@@ -1,4 +1,4 @@
-# transform_route.py
+# transformpy
 # But : construire la table ROUTE propre a partir de routes.json (Back-on-Track).
 # Sortie : data/processed/route.csv
 
@@ -6,7 +6,7 @@ import json
 import pandas as pd
 from pathlib import Path
 
-DOSSIER_RAW = Path("data/raw/back_on_track")
+DOSSIER_RAW = Path("data/raw/source_station")
 DOSSIER_OUT = Path("data/processed")
 
 def nettoyer_vide(valeur):

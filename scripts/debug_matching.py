@@ -6,7 +6,7 @@ import json
 import pandas as pd
 from pathlib import Path
 
-DOSSIER_RAW = Path("data/raw/back_on_track")
+DOSSIER_RAW = Path("data/raw/source_station")
 DOSSIER_OUT = Path("data/processed")
 
 # Noms de gares dans stops.json
