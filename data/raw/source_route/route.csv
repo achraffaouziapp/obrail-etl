@@ -1,0 +1,198 @@
+route_id,departure_station,arrival_station,operator,distance_km,countries
+1,Wien,Bruxelles / Brussel,ÖBB,,"BE, DE, AT"
+2,Berlin,Zürich,ÖBB,,"DE, CH"
+3,Split,Zagreb,HŽPP,424.0,HR
+5,Zürich,Hamburg,ÖBB,1011.0,"DE, CH"
+6,Humenné,Praha,ČD,745.0,"CZ, SK"
+7,Chop,Praha,RJ,672.0,"SK, CZ"
+8,Praha,Przemyśl,PKP/ČD,744.0,"CZ, PL"
+9,Praha,Warszawa,PKP/ČD,,"CZ, PL"
+10,Kraków,Hel,PKP,,PL
+11,Iași,Cluj-Napoca,CFR,459.0,RO
+12,București,Budapest,CFR,870.0,"HU, RO"
+13,Suceava,Mangalia,CFR,526.0,RO
+14,București,Oradea,CFR,711.0,RO
+15,Iași,Timişoara,CFR,849.0,RO
+16,București,Budapest,CFR/MÁV,858.0,"HU, RO"
+17,Wien,Hamburg,ÖBB,,"DE, AT"
+18,Innsbruck,Hamburg,ÖBB,1112.0,"DE, AT"
+19,București,Vatra Dornei,CFR,606.0,RO
+20,București,Satu Mare,CFR,758.0,RO
+21,București,Arad,CFR,604.0,RO
+22,Chişinău,București,CFM/CFR,584.0,"RO, MD"
+23,București,Iași,CFR,405.0,RO
+24,București,Arad,ATC,604.0,RO
+25,Satu Mare,Mangalia,CFR,974.0,RO
+26,Constanța,Oradea,CFR,991.0,RO
+27,İstanbul,Sofia,TCDD/BDŽ,591.0,"BG, TR"
+28,İstanbul,București,TCDD/BDŽ/CFR,799.0,"RO, BG, TR"
+30,Ankara,İzmir,TCDD,811.0,TR
+31,Ankara,İstanbul,TCDD,567.0,TR
+37,London,Glasgow,CS,645.0,GB
+38,London,Edinburgh,CS,644.0,GB
+39,London,Aberdeen,CS,877.0,GB
+40,London,Fort William,CS,839.0,GB
+41,London,Inverness,CS,914.0,GB
+42,London,Penzance,GWR,489.0,GB
+44,Zürich,Amsterdam,ÖBB,845.0,"DE, CH, NL"
+45,Innsbruck,Amsterdam,ÖBB,,"DE, AT, NL"
+46,Amsterdam,Wien,ÖBB,,"DE, AT, NL"
+48,Osijek,Split,HŽPP,677.0,HR
+49,Roma,München,ÖBB,1092.0,"DE, AT, IT"
+50,Graz,Berlin,ÖBB,,"DE, CZ, AT"
+53,Venezia,Stuttgart,ÖBB,852.0,"DE, AT, IT"
+54,Budapest,Stuttgart,MÁV/ÖBB,966.0,"DE, AT, HU"
+57,Zagreb,Stuttgart,HŽPP/ÖBB,807.0,"DE, AT, SI, HR"
+58,Berlin,Budapest,MÁV,995.0,"DE, CZ, SK, HU"
+59,București,Wien,CFR/MÁV/ÖBB,1157.0,"AT, HU, RO"
+60,Wien,Kyiv,UZ/ÖBB,1477.0,"AT, HU, UA"
+62,Stockholm,Malmö,SJ,614.0,SE
+63,Stockholm,Duved,SJ,652.0,SE
+65,Oslo,Stavanger,GA,588.0,NO
+67,Brașov,Budapest,CFR/MÁV,803.0,"HU, RO"
+68,Rovaniemi,Helsinki,VR,899.0,FI
+69,Oslo,Bergen,VY,482.0,NO
+70,Oslo,Trondheim,SJN,556.0,NO
+71,Trondheim,Bodø,SJN,725.0,NO
+72,Helsinki,Kemijärvi,VR,983.0,FI
+73,Innsbruck,Malmö,ST,1847.0,"SE, DK, DE, AT"
+74,Budapest,Zürich,MÁV/ÖBB,1083.0,"AT, CH, HU"
+76,Lecce,Milano,FS,1092.0,IT
+77,Stockholm,Berlin,ST,1481.0,"DE, DK, SE"
+78,Stockholm,Berlin,RDC/SJ,1439.0,"DE, DK, SE"
+80,Malmö,Duved,ST,1265.0,SE
+81,Luleå,Stockholm,SJ,1052.0,SE
+83,Torino,Salerno,FS,1009.0,IT
+84,Palermo,Milano,FS,1427.0,IT
+85,Siracusa,Milano,FS,1380.0,IT
+86,Lecce,Milano,FS,1032.0,IT
+90,Rovaniemi,Turku,VR,899.0,FI
+91,Rovaniemi,Helsinki,VR,899.0,FI
+96,Lecce,Roma,FS,647.0,IT
+97,Lecce,Torino,FS,1147.0,IT
+98,Helsinki,Kolari,VR,989.0,FI
+99,Salerno,Torino,FS,962.0,IT
+101,Palermo,Roma,FS,867.0,IT
+102,Palermo,Roma,FS,867.0,IT
+103,Roma,Siracusa,FS,820.0,IT
+104,Roma,Siracusa,FS,820.0,IT
+105,Trieste,Roma,FS,711.0,IT
+106,Bolzano,Roma,FS,631.0,IT
+107,Paris,Briançon,SNCF,796.0,FR
+108,Paris,Nice,SNCF,989.0,FR
+109,Albi,Paris,SNCF,792.0,FR
+110,Paris,Cerbère,SNCF,952.0,FR
+111,Tarbes,Paris,SNCF,841.0,FR
+112,Latour-de-Carol,Paris,SNCF,875.0,FR
+113,Rijeka,Warszawa,PKP,1251.0,PL
+114,Villach,Edirne,OTE,,"AT, SI, HR, RS, BG, TR"
+115,Split,Wien,ÖBB,921.0,"AT, SI, HR"
+116,München,Warszawa,PKP/ČD,1139.0,"AT, PL, CZ"
+117,Zagreb,Zürich,HŽPP/ÖBB,903.0,"AT, CH, SI, HR"
+118,München,Przemyśl,PKP/ČD,1185.0,"DE, AT, CZ, PL"
+119,Rodez,Paris,SNCF,712.0,FR
+120,Praha,Zürich,ČD,915.0,"CH, DE, CZ"
+122,Zakopane,Świnoujście,PKP,760.0,PL
+123,Humenné,Bratislava,ZSSK,529.0,SK
+124,Praha,Gdynia,PKP/ČD,856.0,"PL, CZ"
+125,Kraków,Łeba,PKP,703.0,PL
+126,Przemyśl,Świnoujście,PKP,,PL
+127,Warszawa,Budapest,MÁV/PKP,902.0,"PL, CZ, SK, HU"
+128,Chelm,Świnoujście,PKP,,PL
+129,Zakopane,Gdynia,PKP,,PL
+131,Varna,Sofia,BDŽ,539.0,BG
+133,Varna,Sofia,BDŽ,533.0,BG
+134,Burgas,Sofia,BDŽ,444.0,BG
+135,Silistra,Sofia,BDŽ,605.0,BG
+137,Bielsko-Biała,Świnoujście,PKP,680.0,PL
+138,Kraków,Kołobrzeg,PKP,,PL
+140,Kyiv,Przemyśl,UZ,700.0,"PL, UA"
+141,Lozova,Mykolaiv,UZ,,UA
+142,Dobrich,Sofia,BDŽ,572.0,BG
+147,Odesa,Przemyśl,UZ,840.0,"PL, UA"
+149,Dnipro,Truskavets,UZ,1238.0,UA
+150,Kharkiv,Vorokhta,UZ,1337.0,UA
+151,Kharkiv,Chernivtsi,UZ,1242.0,UA
+152,Kyiv,Chelm,UZ,540.0,"UA, PL"
+153,Kyiv,Chelm,UZ,540.0,"UA, PL"
+154,Kharkiv,Odesa,UZ,758.0,UA
+155,Przemyśl,Zaporizhzhia,UZ,1305.0,UA
+156,Kharkiv,Lviv,UZ,1115.0,UA
+158,Lozova,Lviv,UZ,1055.0,UA
+161,Kharkiv,Przemyśl,UZ,1115.0,UA
+162,Kharkiv,Uzhhorod,UZ,1400.0,UA
+164,Kharkiv,Ivano-Frankivsk,UZ,1197.0,UA
+166,Ivano-Frankivsk,Chernihiv,UZ,961.0,UA
+167,Dnipro,Chernivtsi,UZ,1073.0,UA
+168,Kyiv,Chernivtsi,UZ,919.0,UA
+170,Dnipro,Lviv,UZ,1077.0,UA
+172,Kyiv,Kryvyi Rih,UZ,488.0,UA
+173,Kyiv,Odesa,UZ,653.0,UA
+174,Kyiv,București,UZ,653.0,"UA, MD, RO"
+175,Ivano-Frankivsk,Kyiv,UZ,1221.0,UA
+177,Sumy,Rakhiv,UZ,1243.0,UA
+178,Ivano-Frankivsk,Cherkasy,UZ,956.0,UA
+180,Kyiv,Kamianets-Podilskyi,UZ,458.0,UA
+181,Kyiv,Warszawa,UZ,867.0,"PL, UA"
+182,Kyiv,Kovel,UZ,529.0,UA
+183,Kyiv,Budapest,UZ,1171.0,"HU, UA"
+184,Kharkiv,Uzhhorod,UZ,1108.0,UA
+185,Kyiv,Truskavets,UZ,702.0,UA
+186,Kyiv,Uzhhorod,UZ,876.0,UA
+189,Kyiv,Zaporizhzhia,UZ,658.0,UA
+190,Kyiv,Chop,UZ,917.0,UA
+191,Lviv,Odesa,UZ,737.0,UA
+195,Kyiv,Chişinău,UZ/CFM,720.0,"UA, MD"
+196,Mukacheve,Kremenchuk,UZ,872.0,UA
+197,Kyiv,Lviv,UZ,564.0,UA
+198,Kyiv,Rakhiv,UZ,892.0,UA
+199,Kyiv,Rakhiv,UZ,892.0,UA
+200,Mykolaiv,Kyiv,UZ,677.0,UA
+201,Chernivtsi,Kryvyi Rih,UZ,1288.0,UA
+203,Kyiv,Solotvyno,UZ,1503.0,UA
+207,Dnipro,Odesa,UZ,754.0,UA
+208,Kharkiv,Chelm,UZ,1160.0,UA
+209,Kovel,Dnipro,UZ,1110.0,UA
+210,Odesa,Kyiv,UZ,653.0,UA
+211,Lviv,Zaporizhzhia,UZ,1209.0,UA
+212,Lviv,Zaporizhzhia,UZ,1209.0,UA
+213,Mykolaiv,Lviv,UZ,1199.0,UA
+218,Uzhhorod,Odesa,UZ,1029.0,UA
+219,Chernivtsi,Odesa,UZ,1011.0,UA
+220,Uzhhorod,Dnipro,UZ,1484.0,UA
+221,Yasinia,Zaporizhzhia,UZ,1465.0,UA
+222,Kovel,Odesa,UZ,865.0,UA
+223,Budapest,Koper,MÁV,703.0,"HU, SI, HR"
+224,Budapest,Rijeka,MÁV,703.0,"HU, SI, HR"
+225,Budapest,Split,MÁV,784.0,"HU, HR"
+227,Kyiv,Uzhhorod,UZ,922.0,UA
+229,Wien,Bregenz,ÖBB,,"AT, CH"
+232,Wien,Roma,ÖBB,1112.0,"AT, IT"
+233,Venezia,Wien,ÖBB,619.0,"AT, IT"
+235,Graz,Zürich,ÖBB,,"AT, LI, CH"
+237,Praha,Bruxelles / Brussel,ES,852.0,"CZ, DE, NL, BE"
+238,Berlin,Paris,ES,1120.0,"DE, BE, FR"
+239,Amsterdam,Milano,ES,1144.0,"NL, DE, CH, IT"
+240,Bruxelles / Brussel,Milano,ES,1107.0,"BE, DE, CH, IT"
+243,Ankara,Tatvan,TCDD,1261.0,TR
+245,Ankara,Kurtalan,TCDD,1263.0,TR
+246,Ankara,Malatya,TCDD,851.0,TR
+247,Ankara,Kars,TCDD,1339.0,TR
+248,İzmir,Konya,TCDD,669.0,TR
+249,Bistrița,București,CFR,451.0,RO
+250,București,Cluj-Napoca,CFR,493.0,RO
+253,Innsbruck,Hamburg,UEX,,DE
+254,München,Hamburg,UEX,,DE
+255,Lörrach,Hamburg,UEX,,DE
+256,Innsbruck,Düsseldorf,UEX,,DE
+258,Przemyśl,Kremenchuk,UZ,935.0,"PL, UA"
+259,Kryvyi Rih,Ivano-Frankivsk,UZ,819.0,UA
+261,Przemyśl,Praha,RJ,740.0,"PL, CZ"
+262,Paris,Aurillac,SNCF,602.0,FR
+263,Solotvyno,Zaporizhzhia,UZ,1347.0,UA
+264,Toulouse,Paris,SNCF,714.0,FR
+265,Bohumín,Hel,PKP/ČD,,"CZ, PL"
+266,Bohumín,Łeba,PKP/ČD,,"CZ, PL"
+267,Kraków,Świnoujście,PKP,,PL
+268,Kraków,Kołobrzeg,PKP,,PL
+269,Dnipro,Uzhhorod,UZ,,UA
